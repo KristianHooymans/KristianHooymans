@@ -33,8 +33,8 @@ Most of what's pinned below is stuff I built while learning something.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KristianHooymans&days=30&bg_color=282828&color=EBDBB2&title_color=FE8019&line=FE8019&point=FABD2F&area=true&area_color=FE8019&hide_border=true&custom_title=Last%2030%20days" />
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Puff1e">
-    <img src="https://img.shields.io/badge/Codeforces-Puff1e-282828?style=for-the-badge&logo=codeforces&logoColor=FE8019" /></a>
+  <a href="https://codeforces.com/profile/hooymanskristian">
+    <img src="https://img.shields.io/badge/Codeforces-hooymanskristian-282828?style=for-the-badge&logo=codeforces&logoColor=FE8019" /></a>
   <a href="https://atcoder.jp/users/Puff1e">
     <img src="https://img.shields.io/badge/AtCoder-Puff1e-282828?style=for-the-badge&logoColor=FE8019" /></a>
 </p>
