@@ -26,7 +26,7 @@ Most of what's pinned below is stuff I built while learning something.
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KristianHooymans&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=282828&title_color=FE8019&icon_color=FABD2F&text_color=EBDBB2" />
+
   <img height="165" src="https://streak-stats.demolab.com?user=KristianHooymans&hide_border=true&background=282828&stroke=3C3836&ring=FE8019&fire=FE8019&currStreakLabel=FE8019&currStreakNum=EBDBB2&sideNums=EBDBB2&sideLabels=EBDBB2&dates=928374" />
 </p>
 
