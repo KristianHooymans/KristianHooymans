@@ -27,7 +27,12 @@ Most of what's pinned below is stuff I built while learning something.
 
 <p align="center">
 
-  <img height="165" src="https://streak-stats.demolab.com?user=KristianHooymans&hide_border=true&background=282828&stroke=3C3836&ring=FE8019&fire=FE8019&currStreakLabel=FE8019&currStreakNum=EBDBB2&sideNums=EBDBB2&sideLabels=EBDBB2&dates=928374" />
+  <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KristianHooymans/KristianHooymans/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KristianHooymans/KristianHooymans/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/KristianHooymans/KristianHooymans/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KristianHooymans&days=30&bg_color=282828&color=EBDBB2&title_color=FE8019&line=FE8019&point=FABD2F&area=true&area_color=FE8019&hide_border=true&custom_title=Last%2030%20days" />
