@@ -10,7 +10,7 @@ Computer science and pure maths student @ Monash. Mostly write C++ and enjoy
 building things where maths and computer science meet, especially when it means
 understanding what's happening underneath the abstractions.
 
-**Currently building** — a small GPT-style language model from scratch in C++.
+**Currently building**: a small GPT-style language model from scratch in C++.
 No ML frameworks or autograd; implementing the maths, forward passes,
 backpropagation and training myself to better understand how these models work.
 
