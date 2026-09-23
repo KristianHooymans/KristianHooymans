@@ -3,19 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2200&color=FE8019&center=true&vCenter=true&repeat=false&width=600&height=45&lines=CS+%2B+Pure+Maths+%40+Monash" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&color=FE8019&center=true&vCenter=true&repeat=false&width=650&height=45&lines=CS+%2B+Pure+Maths+%40+Monash" />
 </p>
 
-Computer science and pure maths student @ Monash. Mostly write C++,
-interested in what's happening underneath the abstractions.
+Computer science and pure maths student @ Monash. Mostly write C++ and enjoy
+building things where maths and computer science meet, especially when it means
+understanding what's happening underneath the abstractions.
 
-**Up next** — a NASDAQ ITCH 5.0 feed handler and limit order book in C++.
-Parsing an exchange's binary protocol, rebuilding the book from it, then
-finding out how fast I can get it to go.
+**Currently building** — a small GPT-style language model from scratch in C++.
+No ML frameworks or autograd; implementing the maths, forward passes,
+backpropagation and training myself to better understand how these models work.
 
-Learning Haskell at the moment. Slowly.
-
-Most of what's pinned below is stuff I built while learning something.
+Also learning Haskell and doing competitive programming.
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-282828?style=for-the-badge&logo=cplusplus&logoColor=FE8019" />
@@ -33,7 +32,9 @@ Most of what's pinned below is stuff I built while learning something.
 
 <p align="center">
   <a href="https://codeforces.com/profile/hooymanskristian">
-    <img src="https://img.shields.io/badge/Codeforces-hooymanskristian-282828?style=for-the-badge&logo=codeforces&logoColor=FE8019" /></a>
+    <img src="https://img.shields.io/badge/Codeforces-hooymanskristian-282828?style=for-the-badge&logo=codeforces&logoColor=FE8019" />
+  </a>
   <a href="https://atcoder.jp/users/Puff1e">
-    <img src="https://img.shields.io/badge/AtCoder-Puff1e-282828?style=for-the-badge&logoColor=FE8019" /></a>
+    <img src="https://img.shields.io/badge/AtCoder-Puff1e-282828?style=for-the-badge&logoColor=FE8019" />
+  </a>
 </p>
