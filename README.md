@@ -48,8 +48,3 @@ The goal is to understand how these models actually work underneath the abstract
     <img src="https://img.shields.io/badge/AtCoder-Puff1e-282828?style=for-the-badge&logoColor=FE8019" />
   </a>
 </p>
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristianHooymans&layout=compact&hide_border=true&bg_color=282828&title_color=FE8019&text_color=EBDBB2" />
-</p>
